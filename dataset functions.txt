@@ -1,0 +1,7 @@
+The dataset training_program.csv includes the following variables:
+
+id: Unique identifier for each participant
+treatment: Binary variable indicating treatment assignment (1 = treated, 0 = control)
+pre_earnings: Earnings before the training program (in dollars)
+post_earnings: Earnings after the training program (in dollars)
+
