@@ -1,2 +1,2 @@
-#README
+# README
 ## In this problem set, I estimated the causal effect of a training program on participants’ earnings. The dataset I used is from a generated randomized controlled trial where participants were randomly assigned to either a treatment group (who received the training) or a control group (who did not receive the training). Randomization helps ensure that any differences in outcomes between the groups can be attributed to the training program.
